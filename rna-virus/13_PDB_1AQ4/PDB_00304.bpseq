@@ -1,0 +1,35 @@
+# File PDB_00304.ct
+# RNA SSTRAND database
+# External source: RCSB Protein Data Bank 1AQ4, number of molecules: 2
+# The secondary structure annotation was obtained with RNAview
+1 A 15
+2 U 14
+3 G 13
+4 A 0
+5 G 12
+6 G 11
+7 A 0
+8 U 0
+9 U 0
+10 A 0
+11 C 6
+12 C 5
+13 C 3
+14 A 2
+15 U 1
+16 G 0
+17 A 0
+18 U 30
+19 G 29
+20 A 0
+21 G 28
+22 G 27
+23 A 0
+24 U 0
+25 U 0
+26 A 0
+27 C 22
+28 C 21
+29 C 19
+30 A 18
+    
