@@ -1,0 +1,32 @@
+# File PDB_00073.ct
+# RNA SSTRAND database
+# External source: RCSB Protein Data Bank 1FQZ, number of molecules: 1
+# The secondary structure annotation was obtained with RNAview
+1 G 27
+2 C 26
+3 C 25
+4 G 24
+5 A 23
+6 G 0
+7 U 22
+8 A 21
+9 G 20
+10 U 19
+11 G 18
+12 U 0
+13 U 0
+14 G 0
+15 G 0
+16 G 0
+17 U 0
+18 C 11
+19 G 10
+20 C 9
+21 G 8
+22 A 7
+23 A 5
+24 A 4
+25 G 3
+26 G 2
+27 C 1
+    
