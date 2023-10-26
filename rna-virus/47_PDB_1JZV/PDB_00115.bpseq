@@ -1,0 +1,39 @@
+# File PDB_00115.ct
+# RNA SSTRAND database
+# External source: RCSB Protein Data Bank 1JZV, number of molecules: 4
+# The secondary structure annotation was obtained with RNAview
+1 G 17
+2 G 16
+3 C 15
+4 G 14
+5 A 12
+6 C 11
+7 u 10
+8 G 9
+9 C 8
+10 A 7
+11 G 6
+12 U 5
+13 A 0
+14 C 4
+15 G 3
+16 c 2
+17 C 1
+18 G 34
+19 G 33
+20 C 32
+21 G 31
+22 A 29
+23 C 28
+24 u 27
+25 G 26
+26 C 25
+27 A 24
+28 G 23
+29 U 22
+30 A 0
+31 C 21
+32 G 20
+33 c 19
+34 C 18
+    
