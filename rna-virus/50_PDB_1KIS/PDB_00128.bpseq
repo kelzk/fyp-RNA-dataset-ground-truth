@@ -1,0 +1,37 @@
+# File PDB_00128.ct
+# RNA SSTRAND database
+# External source: RCSB Protein Data Bank 1KIS, number of molecules: 2
+# The secondary structure annotation was obtained with RNAview
+1 G 16
+2 A 15
+3 G 14
+4 C 13
+5 C 12
+6 C 27
+7 U 26
+8 G 24
+9 G 23
+10 G 0
+11 A 0
+12 G 5
+13 G 4
+14 C 3
+15 U 2
+16 C 1
+17 G 32
+18 C 31
+19 U 30
+20 G 29
+21 U 28
+22 U 0
+23 C 9
+24 C 8
+25 C 0
+26 A 7
+27 G 6
+28 A 21
+29 C 20
+30 A 19
+31 G 18
+32 C 17
+    
