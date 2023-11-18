@@ -1,0 +1,13 @@
+#Name: bpRNA_PDB_354
+#Length: 16
+#PageNumber: 1
+GAGGACAUAGAUCUUC
+(((((((.)).)))))
+SSSSSSSHSSBSSSSS
+NNNNNNNNNNNNNNNN
+S1 1..5 "GAGGA" 12..16 "UCUUC"
+S2 6..7 "CA" 9..10 "AG"
+H1 8..8 "U" (7,9) A:A 
+B1 11..11 "A" (10,6) G:C (5,12) A:U 
+NCBP1 7 A 9 A S2
+segment1 7bp 1..7 GAGGACA 9..16 AGAUCUUC
