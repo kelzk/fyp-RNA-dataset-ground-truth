@@ -1,0 +1,53 @@
+# File PDB_01040.ct
+# RNA SSTRAND database
+# External source: RCSB Protein Data Bank 2F4X, number of molecules: 2
+# The secondary structure annotation was obtained with RNAview
+1 G 0
+2 G 24
+3 U 23
+4 U 22
+5 G 21
+6 C 20
+7 U 19
+8 G 18
+9 A 0
+10 A 0
+11 G 40
+12 C 39
+13 G 38
+14 C 37
+15 G 36
+16 C 35
+17 A 0
+18 C 8
+19 G 7
+20 G 6
+21 C 5
+22 A 4
+23 A 3
+24 C 2
+25 G 0
+26 G 48
+27 U 47
+28 U 46
+29 G 45
+30 C 44
+31 U 43
+32 G 42
+33 A 0
+34 A 0
+35 G 16
+36 C 15
+37 G 14
+38 C 13
+39 G 12
+40 C 11
+41 A 0
+42 C 32
+43 G 31
+44 G 30
+45 C 29
+46 A 28
+47 A 27
+48 C 26
+    
