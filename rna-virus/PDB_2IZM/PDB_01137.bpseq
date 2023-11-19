@@ -1,0 +1,31 @@
+# File PDB_01137.ct
+# RNA SSTRAND database
+# External source: RCSB Protein Data Bank 2IZM, number of molecules: 2
+# The secondary structure annotation was obtained with RNAview
+1 U 13
+2 G 12
+3 C 0
+4 G 11
+5 G 10
+6 A 0
+7 U 0
+8 C 0
+9 A 0
+10 C 5
+11 C 4
+12 C 2
+13 A 1
+14 U 26
+15 G 25
+16 C 0
+17 G 24
+18 G 23
+19 A 0
+20 U 0
+21 C 0
+22 A 0
+23 C 18
+24 C 17
+25 C 15
+26 A 14
+    
