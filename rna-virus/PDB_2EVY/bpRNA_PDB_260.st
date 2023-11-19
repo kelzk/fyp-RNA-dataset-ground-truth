@@ -1,0 +1,11 @@
+#Name: bpRNA_PDB_260
+#Length: 14
+#PageNumber: 1
+GGUAUGCUAGUACC
+((((((..))))))
+SSSSSSHHSSSSSS
+NNNNNNNNNNNNNN
+S1 1..6 "GGUAUG" 9..14 "AGUACC"
+H1 7..8 "CU" (6,9) G:A 
+NCBP1 6 G 9 A S1
+segment1 6bp 1..6 GGUAUG 9..14 AGUACC
