@@ -1,0 +1,13 @@
+#Name: bpRNA_PDB_334
+#Length: 16
+#PageNumber: 1
+GAUCUCUUGUAGAUCA
+((((((..).))))).
+SSSSSSHHSBSSSSSE
+NNNNNNNNNNNNNNNN
+S1 1..5 "GAUCU" 11..15 "AGAUC"
+S2 6..6 "C" 9..9 "G"
+H1 7..8 "UU" (6,9) C:G 
+B1 10..10 "U" (9,6) G:C (5,11) U:A 
+E1 16..16 "A" 
+segment1 6bp 1..6 GAUCUC 9..15 GUAGAUC
