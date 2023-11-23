@@ -1,0 +1,13 @@
+#Name: bpRNA_PDB_385
+#Length: 11
+#PageNumber: 1
+CCAGAAACGGA
+((((..)))).
+SSSSHHSSSSE
+NNNNNNNNNNN
+S1 1..4 "CCAG" 7..10 "ACGG"
+H1 5..6 "AA" (4,7) G:A 
+E1 11..11 "A" 
+NCBP1 3 A 8 C S1
+NCBP2 4 G 7 A S1
+segment1 4bp 1..4 CCAG 7..10 ACGG
